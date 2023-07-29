@@ -26,7 +26,7 @@
 
 ## Install
 ```sh
-pip install discord.py==2.31 typing
+pip install discord.py==2.31 PyNaCl typing
 ```
 ```
 Enjoy Music 😎
