@@ -22,7 +22,7 @@
 ## Requirements
 - Get a Discord Bot Token [[Tutorial](https://www.writebots.com/discord-bot-token/)]
 - Get a Bot Client ID [[Tutorial](https://support.heateor.com/discord-client-id-discord-client-secret/)]
-- Edit config.js & replace `[YOUR_TOKEN], [YOUR_CLIENTID]` to your values
+- Edit bot.js & replace `[YOUR_TOKEN]` to your value
 
 ## Install
 ```sh
@@ -34,7 +34,7 @@ Enjoy Music 😎
 ## Usage
 
 ```sh
-npm start
+python/python3 bot.py
 ```
 ## 🤝 Contributing
 
