@@ -3,7 +3,6 @@ import typing
 from discord import app_commands
 from discord.ext import commands
 from api import *
-pip i
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 bot = app_commands.CommandTree(client)
