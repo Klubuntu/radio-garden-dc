@@ -22,7 +22,7 @@
 ## Requirements
 - Get a Discord Bot Token [[Tutorial](https://www.writebots.com/discord-bot-token/)]
 - Get a Bot Client ID [[Tutorial](https://support.heateor.com/discord-client-id-discord-client-secret/)]
-- Edit bot.js & replace `[YOUR_TOKEN]` to your value
+- Edit bot.py & replace `[YOUR_TOKEN]` to your value
 
 ## Install
 ```sh
