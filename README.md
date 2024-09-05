@@ -44,7 +44,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if you like this project !
 
-<a href="https://www.patreon.com/https:\/\/patreon.com\/klubuntu">
+<a href="https://www.patreon.com/klubuntu">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
